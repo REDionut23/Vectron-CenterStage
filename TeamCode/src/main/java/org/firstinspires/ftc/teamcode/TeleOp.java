@@ -31,6 +31,7 @@ public class TeleOp extends OpMode {
         BRAT_JOS};
 
     public  enum Statusintake {
+
     }
 
     TeleOp.StatusBrat PozitieBrat = TeleOp.StatusBrat.BRAT_SUS;
